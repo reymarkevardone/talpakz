@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+}
+*, *::before *::after{
+  box-sizing: border-box;
+}
+
+.ina{
+  background-color: BLACK;
+  width: 100%;
+  height: 40px;
+  color:white;
+}
+h1{
+  color:white;
+  
+}
+}
+.magulang{
+  background-color: black;
+  height: 100px;
+}
+.agent-one{
+  font-size: 20px;
+}
