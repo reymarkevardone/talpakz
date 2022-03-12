@@ -19,8 +19,9 @@ h1{
 }
 .magulang{
   background-color: black;
-  height: 100px;
+  height: 400px;
 }
 .agent-one{
-  font-size: 20px;
+  color: red;
+  font-size: 200px;
 }
