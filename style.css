@@ -30,7 +30,7 @@ body{
 .topright{
   color:lightgreen;
   font-size: 30px;
-  margin-left: 55%;
+  margin-left: 50%;
   position: center;
   font-family: ;
 }
@@ -145,7 +145,7 @@ hr{
 }
 .sced-one{
   margin: 0;
-  padding-left:300px;
+  padding-left:280px;
   float:center;
   height: 250px;
   width: 450px;
